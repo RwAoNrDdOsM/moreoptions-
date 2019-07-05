@@ -1,0 +1,11 @@
+mod = [
+	"moreoptions"
+]
+
+package = [
+	"resource_packages/moreoptions/moreoptions"
+]
+
+lua = [
+	"scripts/mods/moreoptions/*"
+]
